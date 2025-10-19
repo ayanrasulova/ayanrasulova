@@ -5,9 +5,14 @@ Currently, I'm a full-stack developer for UVA's theCourseForum, where I develop 
 
 I'm extremely passionate about centering accessibility within my work. Through my work with non profits, accessbility focused hackathons, and volunteer experience, I strive to center my technical experience to create tools and solutions that lower barriers to technology use and empower all, regardless of background or circumstance!
 
-## How to reach me:
+## How to reach me 📫
 
 Reach out to me on Linkedin right [here](https://www.linkedin.com/in/ayanrasulova/), and check out my DevPost right [here](https://devpost.com/ayanrasulova?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). You can also shoot me an email at **ayanfairfax@gmail.com**
+
+## Check out my projects! 👇 
+
+I have my personal website pinned (currently a work in progress, but will be deployed soon!), as well as some personal projects such as PosturePal, ArTailor, and a keystrokes logger. You can also checkout the repo for theCourseForum website!
+
 
 
 <!--
