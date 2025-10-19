@@ -6,7 +6,9 @@ Currently, I'm a **full-stack developer** for UVA's theCourseForum, where I deve
 I'm extremely passionate about centering accessibility within my work. Through my work with non profits, accessbility focused hackathons, and volunteer experience, I strive to center my technical experience to create tools and solutions that lower barriers to technology use and empower all, _regardless of background or circumstance!_
 
 ## Tech stack 🛠️
+```bash
 Python, Java, HTML, CSS, OCaml, C, Assembly, JavaScript, Typescript, SQL, LaTeX, FXML, React, Vite, Framer, Tailwind, NumPy, Pandas, Django, jQuery, Bootstrap, Figma, Adobe Creative Suite, Microsoft Office, Bash
+```
 
 ## How to reach me 📫
 
