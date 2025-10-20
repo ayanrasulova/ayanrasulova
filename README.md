@@ -1,6 +1,6 @@
 <p align="center">
   <img src="catwork.gif" alt="catgif" width = "1000">
-</p>
+</p> 
 
 ## Welcome to my GitHub! 👋
 Thanks for stopping by my profile, I'm Ayan (pronounced i-on)! I'm currently a **third-year computer science undergraduate** at the **University of Virginia**, double minoring in **Data Science & English**. My interests involve full-stack software development, visual design, and all things English!
