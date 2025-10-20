@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/0JSNngGvy4wAAAAC/i-love-computers-it.gif](https://i.pinimg.com/originals/73/cb/b3/73cbb388343dbd2db10721956b3787a7.gif" alt="catgif" width="300">
+</p>
+
 ## Welcome to my GitHub! 👋
 Thanks for stopping by my profile, I'm Ayan (pronounced i-on)! I'm currently a **third-year computer science undergraduate** at the **University of Virginia**, double minoring in **Data Science & English**. My interests involve full-stack software development, visual design, and all things English!
 
