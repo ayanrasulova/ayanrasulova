@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/0JSNngGvy4wAAAAC/i-love-computers-it.gif](https://i.pinimg.com/originals/73/cb/b3/73cbb388343dbd2db10721956b3787a7.gif" alt="catgif" width="300">
+  <img src="https://media1.tenor.com/m/0JSNngGvy4wAAAAC/i-love-computers-it.gif" alt="catgif" width="300">
 </p>
 
 ## Welcome to my GitHub! 👋
