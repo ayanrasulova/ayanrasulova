@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/73/cb/b3/73cbb388343dbd2db10721956b3787a7.gif" alt="catgif" width="300">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F281967626655100025%2F&psig=AOvVaw3qJrafiigP86tyzPClbAcU&ust=1761071784013000&source=images&opi=89978449" alt="catgif" width="300">
 </p>
 
 ## Welcome to my GitHub! 👋
