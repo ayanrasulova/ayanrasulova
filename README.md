@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="catbanner.gif" alt="catgif" width = "700">
+  <img src="catbanner.gif" alt="catgif" width = "800">
 </p>
 
 ## Welcome to my GitHub! 👋
