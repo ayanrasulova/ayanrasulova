@@ -5,7 +5,7 @@
 ## I'm Ayan, a Software Developer!👋
 ```python
 
-class SoftwareDeveloper:
+class Ayan:
 
     def __init__(self):
         self.name = "Ayan Rasulova"
@@ -19,9 +19,9 @@ class SoftwareDeveloper:
                             "OpenCV", "MediaPipe"]
         
     def about_me(self):
-        print("Thanks for dropping by, hope you find some of my work interesting.")
+        print("My interests involve full-stack software development, visual design, and all things English!")
 
-ion = SoftwareDeveloper()
+ion = Ayan()
 ion.about_me()
 ```
 
