@@ -8,11 +8,10 @@
 class Ayan:
 
     def __init__(self):
-        self.name = "Ayan Rasulova"
-        self.year = "Third"
-        self.education = "University of Virginia"
+        self.education = {"University of Virginia" : "Third Year" }
         self.major = "Computer Science"
         self.minors = ["Data Science", "English"]
+
         self.tech_stack = ["Python", "Java", "HTML", "CSS", "OCaml", "C", "Assembly", "JavaScript", "Typescript", "SQL",
                             "LaTeX", "FXML", "React", "Vite", "Framer","Tailwind", "NumPy", "Pandas", "Django", "jQuery",
                             "Bootstrap", "Flask", "Figma", "Adobe Creative Suite", "Microsoft Office", "Bash", "Unix",
