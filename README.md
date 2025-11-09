@@ -13,9 +13,10 @@ class SoftwareDeveloper:
         self.education = "University of Virginia"
         self.major = "Computer Science"
         self.minors = ["Data Science", "English"]
-        self.tech_stack = ["Python", "Java", "HTML", "CSS", "OCaml", "C", "Assembly", "JavaScript", "Typescript", "SQL", "LaTeX",
-                          "FXML", "React", "Vite", "Framer","Tailwind", "NumPy", "Pandas", "Django", "jQuery", "Bootstrap",
-                          "Flask", "Figma", "Adobe Creative Suite", "Microsoft Office", "Bash", "Unix", "OpenCV", "MediaPipe"]
+        self.tech_stack = ["Python", "Java", "HTML", "CSS", "OCaml", "C", "Assembly", "JavaScript", "Typescript", "SQL",
+                            "LaTeX", "FXML", "React", "Vite", "Framer","Tailwind", "NumPy", "Pandas", "Django", "jQuery",
+                            "Bootstrap", "Flask", "Figma", "Adobe Creative Suite", "Microsoft Office", "Bash", "Unix",
+                            "OpenCV", "MediaPipe"]
         
     def about_me(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
