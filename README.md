@@ -6,7 +6,6 @@
 ```python
 
 class Ayan:
-
     def __init__(self):
         self.education = {"University of Virginia" : "Third Year" }
         self.major = "Computer Science"
