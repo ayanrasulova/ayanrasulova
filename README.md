@@ -18,8 +18,10 @@ class Ayan:
         
     def about_me(self):
         print("My interests involve full-stack software development, visual design, and all things English!")
-        print("I'm extremely passionate about centering accessibility within my work, including non profit internships, accessbility focused hackathons, and volunteer experience.")
-        print("I strive to center my technical experience to create tools and solutions that lower barriers to technology use and empower all, _regardless of background or circumstance!")
+        print("I'm extremely passionate about centering accessibility within my work, including non profit internships,
+              accessbility focused hackathons, and volunteer experience.")
+        print("I strive to center my technical experience to create tools and solutions that lower barriers to technology
+              use and empower all, _regardless of background or circumstance!")
 
 ion = Ayan()
 ion.about_me()
