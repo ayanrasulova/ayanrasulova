@@ -5,9 +5,7 @@
 ## Welcome to my GitHub! 👋
 Thanks for stopping by my profile, I'm Ayan (pronounced i-on)! I'm currently a **third-year computer science undergraduate** at the **University of Virginia**, double minoring in **Data Science & English**. My interests involve full-stack software development, visual design, and all things English!
 
-Currently, I'm a **full-stack developer** for UVA's theCourseForum, where I develop and maintain new features (using Python, HTML, CSS, Django, jQuery, Bootstrap, and Figma), contribute to bug fixing, and site redesign initiatives. I have also interned as an Education Technology Intern for mEducation Alliance, where I help support the creation of digital content initiatives while conducting research on the field of EdTech. 
-
-I'm extremely passionate about centering accessibility within my work. Through my work with non profits, accessbility focused hackathons, and volunteer experience, I strive to center my technical experience to create tools and solutions that lower barriers to technology use and empower all, _regardless of background or circumstance!_
+Currently, I'm a **full-stack developer** for UVA's theCourseForum, where I develop and maintain new features, contribute to bug fixing, and site redesign initiatives. I have also interned as an Education Technology Intern for mEducation Alliance, where I help support the creation of digital content initiatives while conducting research on the field of EdTech. I'm extremely passionate about centering accessibility within my work. Through my work with non profits, accessbility focused hackathons, and volunteer experience, I strive to center my technical experience to create tools and solutions that lower barriers to technology use and empower all, _regardless of background or circumstance!_
 
 ## Tech stack
 Python, Java, HTML, CSS, OCaml, C, Assembly, JavaScript, Typescript, SQL, LaTeX, FXML, React, Vite, Framer, Tailwind, NumPy, Pandas, Django, jQuery, Bootstrap, Flask, Figma, Adobe Creative Suite, Microsoft Office, Bash, OpenCV, MediaPipe
