@@ -1,6 +1,6 @@
 <!-- <p align="center">
   <img src="catwork.gif" alt="catgif" width = "1000">
-</p> -->
+</p> --> 
 
 ## I'm Ayan, a Software Developer!👋
 ```python
