@@ -29,11 +29,6 @@ ion.about_me()
 
 Reach out to me on Linkedin right [here](https://www.linkedin.com/in/ayanrasulova/), and check out my DevPost right [here](https://devpost.com/ayanrasulova?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). You can also shoot me an email at **ayanfairfax@gmail.com**
 
-## Check out my projects! 👇 
-
-I have my personal website pinned (currently a work in progress, but will be deployed soon!), as well as some personal projects such as Thistle, PosturePal, ArTailor, and a keystrokes logger. You can also checkout the repo for theCourseForum website, where I am a **full-stack developer!**
-
-
 
 <!--
 **ayanrasulova/ayanrasulova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
