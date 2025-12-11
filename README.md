@@ -21,7 +21,7 @@ class Ayan:
         print("I'm extremely passionate about centering accessibility within my work, including non profit internships,
               accessbility focused hackathons, and volunteer experience.")
         print("I strive to center my technical experience to create tools and solutions that lower barriers to technology
-              use and empower all, _regardless of background or circumstance!")
+              use and empower all, regardless of background or circumstance!")
 
 ion = Ayan()
 ion.about_me()
