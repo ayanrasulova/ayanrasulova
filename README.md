@@ -27,7 +27,7 @@ ion = Ayan()
 ion.about_me()
 ```
 
-Reach out to me on Linkedin right [here](https://www.linkedin.com/in/ayanrasulova/), and check out my DevPost right [here](https://devpost.com/ayanrasulova?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). You can also shoot me an email at **ayanfairfax@gmail.com**
+reach out to me on linkedin right [here](https://www.linkedin.com/in/ayanrasulova/), and check out my devpost right [here](https://devpost.com/ayanrasulova?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav). you can also shoot me an email at **ayanfairfax@gmail.com**
 
 
 <!--
