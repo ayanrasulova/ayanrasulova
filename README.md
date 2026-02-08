@@ -2,7 +2,7 @@
   <img src="catwork.gif" alt="catgif" width = "1000">
 </p> --> 
 
-## I'm Ayan, a Software Developer!
+## hi, i'm ayan
 ```python
 
 class Ayan:
