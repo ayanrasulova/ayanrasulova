@@ -7,7 +7,7 @@
 
 class Ayan:
     def __init__(self):
-        self.education = {"University of Virginia" : "Third Year" }
+        self.education = {"University of Virginia" : "Forth Year" }
         self.major = "Computer Science"
         self.minors = ["Data Science", "English"]
 
@@ -17,11 +17,9 @@ class Ayan:
                             "OpenCV", "MediaPipe"]
         
     def about_me(self):
-        print("My interests involve full-stack software development, visual design, and all things English!")
+        print("My interests involve merging full-stack software development with visual design!")
         print("I'm extremely passionate about centering accessibility within my work, including non profit internships,
               accessbility focused hackathons, and volunteer experience.")
-        print("I strive to center my technical experience to create tools and solutions that lower barriers to technology
-              use and empower all, regardless of background or circumstance!")
 
 ion = Ayan()
 ion.about_me()
